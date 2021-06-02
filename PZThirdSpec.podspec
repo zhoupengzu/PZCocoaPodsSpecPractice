@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "PZSecondSpec"
+  spec.name         = "PZThirdSpec"
   spec.version      = "0.0.4"
   spec.summary      = "A short description of PZSecondSpec."
 
